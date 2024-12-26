@@ -1,5 +1,4 @@
-NAMA : MUHAMMAD FADHLAN HAKIM 
-NIM : A11.2022.14619
+NAMA : MUHAMMAD FADHLAN HAKIM  ||  NIM : A11.2022.14619
 
 # 🌟 **Energy Load Prediction Using Machine Learning** 🌟
 
